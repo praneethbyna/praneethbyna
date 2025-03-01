@@ -1,14 +1,21 @@
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
-<h3 align="center">A passionate backend developer who enjoys solving day-to-day problems by delivering innovative and automated software solutions.</h3>
+<h3 align="center">A passionate backend developer specializing in building scalable, high-performance APIs. Experienced in Java, Spring Boot, React, Python, Django and AWS, with a focus on distributed systems, microservices, and cloud-native solutions.</h3>
 
 
-- 🌱 I’m currently learning **the basics of LLMs and the ecosystem around this area, getting comfortable with it.**
+- 🌱 **I’m currently learning** the basics of **LLMs (Large Language Models)** and exploring the ecosystem around AI/ML technologies, aiming to integrate them into scalable backend systems.  
 
-- 👯 I’m looking to collaborate on **interesting projects that not only involve new technologies but also prioritize the effective use of algorithms. I take so much pride in how we, as humans, evolve over the years. I also enjoy discussing new innovations in tech.**
+- 👯 **I’m looking to collaborate on** interesting projects that not only involve new technologies but also prioritize the effective use of algorithms. I’m particularly interested in projects that leverage new technologies to solve real-world problems efficiently.  I enjoy exploring how technology evolves and discussing new innovations in the field.
 
-- 💬 Ask me about **backend development, system design, and distributed systems.**
+- 💬 **Ask me about** backend development, system design, database optimization, and building high-throughput APIs.
 
-- 📫 How to reach me **praneethbyna6@gmail.com**
+- 🔧 **Technologies I work with**: Java, Spring Boot, Kafka, Redis, AWS, Docker, Kubernetes, PostgreSQL, React, and Python.  
+
+- 🚀 **Recent Achievements**:  
+  - Designed and implemented **real-time event-driven architectures** using Kafka, reducing data ingestion latency by 40%.  
+  - Optimized **PostgreSQL** query performance by 30%, enabling faster processing of large-scale data operations.  
+  - Built **high-performance RESTful APIs** with Spring Boot, reducing API latency by 30% and improving system efficiency by 25%.  
+
+- 📫 **How to reach me**: praneethbyna6@gmail.com  
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
