@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
-<h3 align="center">A passionate backend developer specializing in building scalable, high-performance APIs. Experienced in Java, Spring Boot, React, Python, Django and AWS, with a focus on distributed systems, microservices, and cloud-native solutions.</h3>
+<h3 align="center">A passionate backend developer specializing in building scalable, high-performance APIs. Experienced in Java, Spring Boot, React, Python, Django and AWS, with a focus on distributed systems, microservices, and cloud-native solutions.</h3>`
 
 
-- 🌱 **I’m currently learning** the basics of **LLMs (Large Language Models)** and exploring the ecosystem around AI/ML technologies, aiming to integrate them into scalable backend systems.  
+- 🌱 **I’m currently learning** the basics of **LLMs (Large Language Models)** and exploring the ecosystem around AI/ML technologies, aiming to integrate them into scalable backend systems. I enjoy exploring various system design use cases and studying articles from tech companies to understand how they architect scalable and efficient solutions.
 
 - 👯 **I’m looking to collaborate on** interesting projects that not only involve new technologies but also prioritize the effective use of algorithms. I’m particularly interested in projects that leverage new technologies to solve real-world problems efficiently.  I enjoy exploring how technology evolves and discussing new innovations in the field.
 
