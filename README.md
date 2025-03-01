@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Praneeth</h1>
 <h3 align="center">A passionate backend developer who enjoys solving day-to-day problems by delivering innovative and automated software solutions.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=praneethbyna&label=Profile%20views&color=0e75b6&style=flat" alt="praneethbyna" /> </p>
-
 
 - 🌱 I’m currently learning **the basics of LLMs and the ecosystem around this area, getting comfortable with it.**
 
