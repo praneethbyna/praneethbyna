@@ -8,18 +8,7 @@
 
 - 💬 **Ask me about** backend development, system design, database optimization, and building high-throughput APIs.
 
-- 🔧 **Technologies I work with**: Java, Spring Boot, Kafka, Redis, AWS, Docker, Kubernetes, PostgreSQL, React, and Python.  
-
-- 🚀 **Recent Achievements**:  
-  - Designed and implemented **real-time event-driven architectures** using Kafka, reducing data ingestion latency by 40%.  
-  - Optimized **PostgreSQL** query performance by 30%, enabling faster processing of large-scale data operations.  
-  - Built **high-performance RESTful APIs** with Spring Boot, reducing API latency by 30% and improving system efficiency by 25%.  
-
 - 📫 **How to reach me**: praneethbyna6@gmail.com  
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
