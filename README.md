@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **the basics of LLMs and the ecosystem around this area, getting comfortable with it.**
 
-- 👯 I’m looking to collaborate on **interesting projects that involves**
+- 👯 I’m looking to collaborate on **interesting projects that not only involves new technologies but also priotizes the effective use of algorithms. I take so much pride in how as a human we evolve over the years. So, I also like discussing about the new innovations in the tech.
 
 - 💬 Ask me about **backend development, system design**
 
