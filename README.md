@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Praneeth</h1>
+<h1 align="center">Hi 👋, I'm Praneeth Byna</h1>
 <h3 align="center">A passionate backend developer specializing in building scalable, high-performance APIs. Experienced in Java, Spring Boot, React, Python, Django and AWS, with a focus on distributed systems, microservices, and cloud-native solutions.</h3>`
 
 
