@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Praneeth Byna</h1>
-<h3 align="center">A passionate backend developer specializing in building scalable, high-performance APIs. Experienced in Java, Spring Boot, React, Python, Django and AWS, with a focus on distributed systems, microservices, and cloud-native solutions.</h3>`
+<h3 align="center">A passionate backend developer specializing in building scalable, high-performance APIs. Experienced in Java, Spring Boot, React, Python, Django, JavaScript and AWS, with a focus on distributed systems, microservices, and cloud-native solutions.</h3>`
 
 
 - 🌱 **I’m currently learning** the basics of **LLMs (Large Language Models)** and exploring the ecosystem around AI/ML technologies, aiming to integrate them into scalable backend systems. I enjoy exploring various system design use cases and studying articles from tech companies to understand how they architect scalable and efficient solutions.
